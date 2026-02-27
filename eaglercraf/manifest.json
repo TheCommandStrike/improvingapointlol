@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "description": "Eaglercraft 1.20 test directory HTML page",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "xxfluffyasherxx.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "xxfluffyasherxx.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "id": "Eagler1.20"
+}
